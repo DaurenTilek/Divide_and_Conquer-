@@ -1,4 +1,4 @@
-package assignment;
+package com.assignment;
 
 public class Metrics {
     public long comparisons = 0;

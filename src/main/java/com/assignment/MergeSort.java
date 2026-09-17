@@ -1,4 +1,4 @@
-package assignment;
+package com.assignment;
 
 public class MergeSort {
     private static final int CUTOFF = 15;
