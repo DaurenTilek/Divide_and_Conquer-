@@ -35,7 +35,6 @@ public class MergeSort {
         int j = mid + 1;
 
         for (int k = low; k <= high; k++) {
-            metrics.incrementComparisons();
             if (i > mid) {
                 a[k] = temp[j++];
             } else if (j > high) {
